@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Control</class>
+ <widget class="QDialog" name="Control">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>352</width>
+    <height>167</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Окно управления</string>
+  </property>
+  <widget class="QPushButton" name="add_worker">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>40</y>
+     <width>271</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Добавить рабочего</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="delete_worker">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>90</y>
+     <width>271</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Обслужить рабочего</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

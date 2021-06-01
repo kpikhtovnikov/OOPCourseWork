@@ -1,0 +1,16 @@
+debug/common.o
+debug/communicator.o
+debug/application.o
+debug/control.o
+debug/interface.o
+debug/main.o
+debug/mainwindow.o
+debug/settings.o
+debug/status.o
+debug/moc_communicator.o
+debug/moc_application.o
+debug/moc_control.o
+debug/moc_interface.o
+debug/moc_mainwindow.o
+debug/moc_settings.o
+debug/moc_status.o
